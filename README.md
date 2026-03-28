@@ -21,8 +21,7 @@ Task 1 – Digital Literacy Infographic
 - Description: Created a one-page infographic explaining digital literacy, useful digital tools, and safe internet practices.  
 - Outcome: Improved my ability to present information visually in a clear and engaging way.  
 
- File: TASK 1
- 
+ File: TASK 1 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/73ca025d-e726-410b-ab7c-38e2654b50d7" />
 
 ---
 
