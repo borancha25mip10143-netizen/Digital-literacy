@@ -33,7 +33,7 @@ Task 2 – Digital Portfolio
 - Description: Created professional profiles on these platforms to build an online presence.  
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
-📂 Files:  
+ Files:  
 - task-2-
 - <img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/8a1a9c16-c3c7-4846-b4af-4c9a34713aec" />
 
@@ -84,27 +84,29 @@ https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/e964a21c9103
 
 https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/4d5100a3c90218eec4df1014d8c0532cbb0ca86b/Task%204-Subject%20%20Application%20for%20Summer%20Internship
 
-## Task 5 – Cybercrime Awareness
-### Case Study
+  Task 5 – Cybercrime Awareness
+  Case Study
 - Topic: Phishing  
 - Description: Explained how phishing attacks occur and their impact  
 
-### Prevention Checklist
+  Prevention Checklist
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
 
 https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/6df4a5f15aa0fe6bf0a8eef0ef810285662e1d36/Task%205%20-%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Checklist
 
+https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/0e4fd8ab1a8f70d5b8c2ba16a49d616496cba222/Task%205%20-PHIISHING%20CASE%20STUDY
 
-## Project Report
+
+  Project Report
 The detailed report of all tasks is included in the repository.
 
 📂 File: `report/Project_Report.pdf`
 
 ---
 
-## Tools & Platforms Used
+  Tools & Platforms Used
 - Canva  
 - GitHub  
 - LinkedIn  
@@ -114,7 +116,7 @@ The detailed report of all tasks is included in the repository.
 
 ---
 
-## Key Learnings
+ Key Learnings
 - Understanding of digital literacy concepts  
 - Importance of online safety and cybersecurity  
 - Professional communication skills  
@@ -123,12 +125,12 @@ The detailed report of all tasks is included in the repository.
 
 ---
 
-## Conclusion
+  Conclusion
 This project enhanced my knowledge of digital tools and online practices. It helped me build a strong foundation in digital literacy, which will be useful in my academic journey and future career.
 
 ---
 
-## References
+   References
 - https://www.canva.com  
 - https://www.github.com  
 - https://www.linkedin.com  
