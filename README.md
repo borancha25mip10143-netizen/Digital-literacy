@@ -76,7 +76,8 @@ Task 4 – Email Etiquette & Social Media Checklist
   2. Internship application email  
 - Created a Social Media Do’s and Don’ts checklist  
 
-Files:  
+Files:[
+](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/b0b6a7259d0256785b1527326fd575720a7cce57/Task%204%20-SOCIAL%20MEDIA%20CHECKLIST)
 [
 ](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/9ecd490961824f44d7d4f840b5540eb0642fd91e/Task%204-%20Request%20for%20Assignment%20Deadline%20Extension)
 ## Task 5 – Cybercrime Awareness
