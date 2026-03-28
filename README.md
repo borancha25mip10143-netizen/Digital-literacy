@@ -79,7 +79,8 @@ Task 4 – Email Etiquette & Social Media Checklist
 Files:[
 ](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/b0b6a7259d0256785b1527326fd575720a7cce57/Task%204%20-SOCIAL%20MEDIA%20CHECKLIST)
 [
-](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/9ecd490961824f44d7d4f840b5540eb0642fd91e/Task%204-%20Request%20for%20Assignment%20Deadline%20Extension)
+](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/9ecd490961824f44d7d4f840b5540eb0642fd91e/Task%204-%20Request%20for%20Assignment%20Deadline%20Extension) [
+](https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/53d489c6707bdf10cad9289f9c5bf555c6b01969/Task%204-Subject%20%20Application%20for%20Summer%20Internship)
 ## Task 5 – Cybercrime Awareness
 ### Case Study
 - Topic: Phishing  
