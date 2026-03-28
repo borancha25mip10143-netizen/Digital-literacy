@@ -23,9 +23,9 @@ Task 1 – Digital Literacy Infographic
 
  File: TASK 1 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/73ca025d-e726-410b-ab7c-38e2654b50d7" />
 
----
 
-## Task 2 – Digital Portfolio
+
+Task 2 – Digital Portfolio
 - Platforms Used:
   - GitHub
   - LinkedIn
@@ -34,27 +34,39 @@ Task 1 – Digital Literacy Infographic
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
 📂 Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+- task-2-
+- <img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/8a1a9c16-c3c7-4846-b4af-4c9a34713aec" />
 
----
+- task-2-
+- <img width="1600" height="929" alt="image" src="https://github.com/user-attachments/assets/2d546cf0-17c6-462f-82cb-5bb402905971" />
 
-## Task 3 – Coding & Collaboration Platforms
-### Part A – Coding Platform
+- task-2-
+- <img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/130e866d-cb05-4e44-8c40-b5b2fb0c1cf3" />
+
+
+
+
+Task 3 – Coding & Collaboration Platforms
+Part A – Coding Platform
 - Platform: HackerRank  
 - Activity: Completed a beginner-level coding problem  
 
-### Part B – Google Form
+ Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
-🔗 Google Form Link: [Paste your link here]
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdaUJSZmHV7VpqK6g6FdrOEM4gZPMD6WDgNA-sMFUASvIi90w/viewform?usp=publish-editor
 
-📂 Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+Files:  
+- task-3-
+- <img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/cdf6c7c3-4db0-46f1-8e9a-da09fd841bf3" />
+
+- task-3-
+- <img width="1079" height="1597" alt="image" src="https://github.com/user-attachments/assets/0f829c63-7a59-468a-80ca-b4d598a8c3be" />
+  
+- task-3-
+- <img width="1600" height="325" alt="image" src="https://github.com/user-attachments/assets/68a54fe3-6552-44fc-a67b-6820b6ab89d9" />
+
 
 ---
 
