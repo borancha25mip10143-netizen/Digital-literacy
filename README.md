@@ -68,16 +68,17 @@ Files:
 - <img width="1600" height="325" alt="image" src="https://github.com/user-attachments/assets/68a54fe3-6552-44fc-a67b-6820b6ab89d9" />
 
 
----
 
-## Task 4 – Email Etiquette & Social Media Checklist
+
+Task 4 – Email Etiquette & Social Media Checklist
 - Wrote two professional emails:
   1. Request for assignment extension  
   2. Internship application email  
 - Created a Social Media Do’s and Don’ts checklist  
 
-📂 Files:  
-- `task-4-email-etiquette/emails.txt`  
+Files:  
+- `task-4-email-etiquette/emails.txt`
+- 
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 ---
