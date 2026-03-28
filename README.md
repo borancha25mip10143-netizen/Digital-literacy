@@ -92,11 +92,10 @@ https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/4d5100a3c902
 ### Prevention Checklist
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
-📂 Files:  
-- `task-5-cybercrime/casestudy.txt`  
-- `task-5-cybercrime/prevention-checklist.txt`  
+ Files:  
 
----
+https://github.com/borancha25mip10143-netizen/Digital-literacy/blob/6df4a5f15aa0fe6bf0a8eef0ef810285662e1d36/Task%205%20-%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Checklist
+
 
 ## Project Report
 The detailed report of all tasks is included in the repository.
